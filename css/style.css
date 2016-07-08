@@ -51,3 +51,71 @@ header nav ul li a {
 	text-align: center;
 	color: #eee;
 }
+#search {
+	position: relative;
+	width: 100%;
+	min-width: 1263px;
+	height: 600px;
+	background: url(../img/search.jpg) no-repeat center center;
+}
+#search-bg {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 600px;
+	height: 60px;
+	background-color: #000;
+	margin: -30px 0 0 -300px;
+	border-radius: 10px;
+	opacity: 0.6;
+}
+#search form {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 600px;
+	height: 60px;
+	margin: -27px 0 0 -295px;
+}
+#search .search {
+	width: 446px;
+	height: 52px;
+	background-color: #eee;
+	color: #666;
+	border: 1px solid #666;
+	font-size: 24px;
+	padding: 0 10px;
+	outline: none;
+}
+#search button {
+	width: 120px;
+	height: 54px;
+	background-color: #ccc;
+	border: 1px solid #666;
+	font-size: 24px;
+	border-radius: 10px;
+	font-weight: normal;
+	cursor: pointer;
+	outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
